@@ -1,0 +1,2 @@
+# GradientXYZ
+PrivacyPolicy
